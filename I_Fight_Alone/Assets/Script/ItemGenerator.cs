@@ -15,7 +15,7 @@ public class ItemGenerator : MonoBehaviour
     {
         timer = 0.0f;
         waitingTime = 5;
-        mapSize = new Vector2(100, 100); // MapGenerator 사용시 제거
+        // mapSize = new Vector2(100, 100); // MapGenerator 사용시 제거
 
         string holderName = "Generated Item";
         if(transform.Find(holderName))
@@ -26,9 +26,8 @@ public class ItemGenerator : MonoBehaviour
         itemHolder = new GameObject(holderName).transform;
         itemHolder.parent = transform;
 
-        // map = GameObject.Find("MapGenerator");  //MapGenerator 사용 시
-        // mapSize = map.GetComponent<MapGenerator>().mapSize; //MapGenerator 사용 시
-
+        map = GameObject.Find("MapGenerator");  //MapGenerator 사용 시
+        mapSize = map.GetComponent<MapGenerator>().mapSize; //MapGenerator 사용 시
     }
 
     void Update()

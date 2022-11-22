@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{5f3f1597-aacf-310e-4dae-9eb4638ae7e0}</ProjectGuid>
+    <ProjectGuid>{6c103baf-1e02-1903-4efb-266fac9dd0fa}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -299,37 +299,37 @@
         <HintPath>D:\unity\editor\2021.3.8f1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Newtonsoft.Json">
-        <HintPath>D:\workspace\unity\I Fight Alone\Library\PackageCache\com.unity.collab-proxy@1.17.1\Lib\Editor\PlasticSCM\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+        <HintPath>C:\Users\moond\OneDrive\바탕 화면\project\nahonja\I_Fight_Alone\Library\PackageCache\com.unity.collab-proxy@1.17.1\Lib\Editor\PlasticSCM\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Antlr3.Runtime">
-        <HintPath>D:\workspace\unity\I Fight Alone\Library\PackageCache\com.unity.collab-proxy@1.17.1\Lib\Editor\PlasticSCM\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+        <HintPath>C:\Users\moond\OneDrive\바탕 화면\project\nahonja\I_Fight_Alone\Library\PackageCache\com.unity.collab-proxy@1.17.1\Lib\Editor\PlasticSCM\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.YamlDotNet">
-        <HintPath>D:\workspace\unity\I Fight Alone\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll</HintPath>
+        <HintPath>C:\Users\moond\OneDrive\바탕 화면\project\nahonja\I_Fight_Alone\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.TextureAssets">
-        <HintPath>D:\workspace\unity\I Fight Alone\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\EditorAssetResources\Unity.VisualScripting.TextureAssets.dll</HintPath>
+        <HintPath>C:\Users\moond\OneDrive\바탕 화면\project\nahonja\I_Fight_Alone\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\EditorAssetResources\Unity.VisualScripting.TextureAssets.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.IonicZip">
-        <HintPath>D:\workspace\unity\I Fight Alone\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll</HintPath>
+        <HintPath>C:\Users\moond\OneDrive\바탕 화면\project\nahonja\I_Fight_Alone\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll</HintPath>
     </Reference>
     <Reference Include="log4netPlastic">
-        <HintPath>D:\workspace\unity\I Fight Alone\Library\PackageCache\com.unity.collab-proxy@1.17.1\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>
+        <HintPath>C:\Users\moond\OneDrive\바탕 화면\project\nahonja\I_Fight_Alone\Library\PackageCache\com.unity.collab-proxy@1.17.1\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-        <HintPath>D:\workspace\unity\I Fight Alone\Library\PackageCache\com.unity.visualscripting@1.7.8\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+        <HintPath>C:\Users\moond\OneDrive\바탕 화면\project\nahonja\I_Fight_Alone\Library\PackageCache\com.unity.visualscripting@1.7.8\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="ReportGeneratorMerged">
-        <HintPath>D:\workspace\unity\I Fight Alone\Library\PackageCache\com.unity.testtools.codecoverage@1.0.1\lib\ReportGenerator\ReportGeneratorMerged.dll</HintPath>
+        <HintPath>C:\Users\moond\OneDrive\바탕 화면\project\nahonja\I_Fight_Alone\Library\PackageCache\com.unity.testtools.codecoverage@1.0.1\lib\ReportGenerator\ReportGeneratorMerged.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-        <HintPath>D:\workspace\unity\I Fight Alone\Library\PackageCache\com.unity.nuget.newtonsoft-json@3.0.2\Runtime\Newtonsoft.Json.dll</HintPath>
+        <HintPath>C:\Users\moond\OneDrive\바탕 화면\project\nahonja\I_Fight_Alone\Library\PackageCache\com.unity.nuget.newtonsoft-json@3.0.2\Runtime\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="unityplastic">
-        <HintPath>D:\workspace\unity\I Fight Alone\Library\PackageCache\com.unity.collab-proxy@1.17.1\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
+        <HintPath>C:\Users\moond\OneDrive\바탕 화면\project\nahonja\I_Fight_Alone\Library\PackageCache\com.unity.collab-proxy@1.17.1\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-        <HintPath>D:\workspace\unity\I Fight Alone\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
+        <HintPath>C:\Users\moond\OneDrive\바탕 화면\project\nahonja\I_Fight_Alone\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
         <HintPath>D:\unity\editor\2021.3.8f1\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -719,96 +719,96 @@
         <HintPath>D:\unity\editor\2021.3.8f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Xml.XPath.XDocument.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-        <HintPath>D:\workspace\unity\I Fight Alone\Library\ScriptAssemblies\UnityEngine.TestRunner.dll</HintPath>
+        <HintPath>C:\Users\moond\OneDrive\바탕 화면\project\nahonja\I_Fight_Alone\Library\ScriptAssemblies\UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
-        <HintPath>D:\workspace\unity\I Fight Alone\Library\ScriptAssemblies\UnityEditor.TestRunner.dll</HintPath>
+        <HintPath>C:\Users\moond\OneDrive\바탕 화면\project\nahonja\I_Fight_Alone\Library\ScriptAssemblies\UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Flow.Editor">
-        <HintPath>D:\workspace\unity\I Fight Alone\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
+        <HintPath>C:\Users\moond\OneDrive\바탕 화면\project\nahonja\I_Fight_Alone\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-        <HintPath>D:\workspace\unity\I Fight Alone\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
+        <HintPath>C:\Users\moond\OneDrive\바탕 화면\project\nahonja\I_Fight_Alone\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-        <HintPath>D:\workspace\unity\I Fight Alone\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
+        <HintPath>C:\Users\moond\OneDrive\바탕 화면\project\nahonja\I_Fight_Alone\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Performance.Profile-Analyzer.Editor">
-        <HintPath>D:\workspace\unity\I Fight Alone\Library\ScriptAssemblies\Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
+        <HintPath>C:\Users\moond\OneDrive\바탕 화면\project\nahonja\I_Fight_Alone\Library\ScriptAssemblies\Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Model">
-        <HintPath>D:\workspace\unity\I Fight Alone\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
+        <HintPath>C:\Users\moond\OneDrive\바탕 화면\project\nahonja\I_Fight_Alone\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualStudio.Editor">
-        <HintPath>D:\workspace\unity\I Fight Alone\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
+        <HintPath>C:\Users\moond\OneDrive\바탕 화면\project\nahonja\I_Fight_Alone\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-        <HintPath>D:\workspace\unity\I Fight Alone\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
+        <HintPath>C:\Users\moond\OneDrive\바탕 화면\project\nahonja\I_Fight_Alone\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Core.Editor">
-        <HintPath>D:\workspace\unity\I Fight Alone\Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll</HintPath>
+        <HintPath>C:\Users\moond\OneDrive\바탕 화면\project\nahonja\I_Fight_Alone\Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-        <HintPath>D:\workspace\unity\I Fight Alone\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
+        <HintPath>C:\Users\moond\OneDrive\바탕 화면\project\nahonja\I_Fight_Alone\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.State.Editor">
-        <HintPath>D:\workspace\unity\I Fight Alone\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
+        <HintPath>C:\Users\moond\OneDrive\바탕 화면\project\nahonja\I_Fight_Alone\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
-        <HintPath>D:\workspace\unity\I Fight Alone\Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
+        <HintPath>C:\Users\moond\OneDrive\바탕 화면\project\nahonja\I_Fight_Alone\Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Sprite.Editor">
-        <HintPath>D:\workspace\unity\I Fight Alone\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll</HintPath>
+        <HintPath>C:\Users\moond\OneDrive\바탕 화면\project\nahonja\I_Fight_Alone\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection">
-        <HintPath>D:\workspace\unity\I Fight Alone\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
+        <HintPath>C:\Users\moond\OneDrive\바탕 화면\project\nahonja\I_Fight_Alone\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Flow">
-        <HintPath>D:\workspace\unity\I Fight Alone\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
+        <HintPath>C:\Users\moond\OneDrive\바탕 화면\project\nahonja\I_Fight_Alone\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>D:\workspace\unity\I Fight Alone\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
+        <HintPath>C:\Users\moond\OneDrive\바탕 화면\project\nahonja\I_Fight_Alone\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PlasticSCM.Editor">
-        <HintPath>D:\workspace\unity\I Fight Alone\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
+        <HintPath>C:\Users\moond\OneDrive\바탕 화면\project\nahonja\I_Fight_Alone\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-        <HintPath>D:\workspace\unity\I Fight Alone\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
+        <HintPath>C:\Users\moond\OneDrive\바탕 화면\project\nahonja\I_Fight_Alone\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>D:\workspace\unity\I Fight Alone\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.VisualScripting.Core">
-        <HintPath>D:\workspace\unity\I Fight Alone\Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.EditorCoroutines.Editor">
-        <HintPath>D:\workspace\unity\I Fight Alone\Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll</HintPath>
+        <HintPath>C:\Users\moond\OneDrive\바탕 화면\project\nahonja\I_Fight_Alone\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Services.Core">
-        <HintPath>D:\workspace\unity\I Fight Alone\Library\ScriptAssemblies\Unity.Services.Core.dll</HintPath>
+        <HintPath>C:\Users\moond\OneDrive\바탕 화면\project\nahonja\I_Fight_Alone\Library\ScriptAssemblies\Unity.Services.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.Core">
+        <HintPath>C:\Users\moond\OneDrive\바탕 화면\project\nahonja\I_Fight_Alone\Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.EditorCoroutines.Editor">
+        <HintPath>C:\Users\moond\OneDrive\바탕 화면\project\nahonja\I_Fight_Alone\Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Services.Core.Analytics">
-        <HintPath>D:\workspace\unity\I Fight Alone\Library\ScriptAssemblies\Unity.Services.Core.Analytics.dll</HintPath>
+        <HintPath>C:\Users\moond\OneDrive\바탕 화면\project\nahonja\I_Fight_Alone\Library\ScriptAssemblies\Unity.Services.Core.Analytics.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Shared.Editor">
-        <HintPath>D:\workspace\unity\I Fight Alone\Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
+        <HintPath>C:\Users\moond\OneDrive\바탕 화면\project\nahonja\I_Fight_Alone\Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Services.Core.Environments">
-        <HintPath>D:\workspace\unity\I Fight Alone\Library\ScriptAssemblies\Unity.Services.Core.Environments.dll</HintPath>
+        <HintPath>C:\Users\moond\OneDrive\바탕 화면\project\nahonja\I_Fight_Alone\Library\ScriptAssemblies\Unity.Services.Core.Environments.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-        <HintPath>D:\workspace\unity\I Fight Alone\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
+        <HintPath>C:\Users\moond\OneDrive\바탕 화면\project\nahonja\I_Fight_Alone\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TestTools.CodeCoverage.Editor">
-        <HintPath>D:\workspace\unity\I Fight Alone\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
+        <HintPath>C:\Users\moond\OneDrive\바탕 화면\project\nahonja\I_Fight_Alone\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.State">
-        <HintPath>D:\workspace\unity\I Fight Alone\Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
+        <HintPath>C:\Users\moond\OneDrive\바탕 화면\project\nahonja\I_Fight_Alone\Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{4f9ce0fb-a700-2e9f-79a3-bbb7b8c61e47}</Project>
+      <Project>{89f23a80-49bf-89df-cd04-918ddabf60eb}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
   </ItemGroup>

@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1536
     height: 820.8
   m_ShowMode: 4
-  m_Title: "\uD504\uB85C\uC81D\uD2B8"
+  m_Title: "\uACC4\uCE35 \uAD6C\uC870"
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -119,7 +119,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 55
+  controlID: 21
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -144,7 +144,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 56
+  controlID: 27
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -169,7 +169,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 57
+  controlID: 28
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -270,8 +270,8 @@ MonoBehaviour:
     y: 0
     width: 363.19995
     height: 770.8
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 19}
@@ -339,21 +339,21 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 34fbffff
+      m_ExpandedIDs: fae7ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: MainCamera
+        m_OriginalName: MainCamera
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: 79160
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 8}
       m_SearchString: 
@@ -396,8 +396,8 @@ MonoBehaviour:
       floating: 0
       collapsed: 0
       displayed: 1
-      snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: -100, y: -25.600006}
+      snapOffset: {x: -100, y: -25.600006}
+      snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 3
       id: Tool Settings
       index: 0
@@ -418,7 +418,7 @@ MonoBehaviour:
       floating: 0
       collapsed: 0
       displayed: 1
-      snapOffset: {x: 0, y: 0}
+      snapOffset: {x: 0, y: 24.8}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       id: unity-scene-view-toolbar
@@ -588,9 +588,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -2.0689306, y: 0.4775, z: -5.990732}
+    m_Target: {x: 0, y: 10, z: -10}
     speed: 2
-    m_Value: {x: -2.0689306, y: 0.4775, z: -5.990732}
+    m_Value: {x: 0, y: 10, z: -10}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -641,9 +641,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.09057906, y: 0.9030146, z: -0.34797692, w: -0.2351005}
   m_Size:
-    m_Target: 2.7424219
+    m_Target: 12.124355
     speed: 2
-    m_Value: 2.7424219
+    m_Value: 12.124355
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -873,14 +873,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\workspace\unity\I Fight Alone
+  m_LastProjectPath: "C:\\Users\\moond\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\project\\nahonja\\I_Fight_Alone"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 31}
-    m_SelectedIDs: e2390200
-    m_LastClickedID: 145890
-    m_ExpandedIDs: 00000000b4390200b6390200b8390200ba390200bc390200be390200c0390200c2390200c4390200c6390200c8390200ca390200cc390200ce390200d0390200e2390200
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: d8470200
+    m_LastClickedID: 149464
+    m_ExpandedIDs: 00000000b4470200b6470200b8470200ba470200bc470200be470200c0470200c2470200c4470200c6470200c8470200ca470200cc470200ce470200d0470200
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -908,7 +908,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000b4390200b6390200b8390200ba390200bc390200be390200c0390200c2390200c4390200c6390200c8390200ca390200cc390200ce390200d0390200
+    m_ExpandedIDs: 00000000b4470200b6470200b8470200ba470200bc470200be470200c0470200c2470200c4470200c6470200c8470200ca470200cc470200ce470200d0470200
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 

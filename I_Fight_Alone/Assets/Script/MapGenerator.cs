@@ -10,13 +10,9 @@ public class MapGenerator : MonoBehaviour {
     public Transform tree2Prefab;
 	public Vector2 mapSize;
 
-	[Range(0,1)]
-	public float outlinePercent;
-
 	void Start() {
 		GenerateMap();
         GenerateTree();
-
 	}
 
 	void GenerateMap() 
@@ -38,7 +34,6 @@ public class MapGenerator : MonoBehaviour {
 				if(random_water <= 2){type = waterPrefab;}
 
 				Transform newTile = Instantiate(type, tilePosition, Quaternion.Euler(new Vector3(0,0,0))) as Transform;
-				newTile.localScale = Vector3.one * (1-outlinePercent);
 				newTile.parent = mapHolder;
 			}
 		}

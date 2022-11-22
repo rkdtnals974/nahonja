@@ -4,21 +4,28 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    public float speed;
-    float hAxis;
-    float vAxis;
-    bool wDown;
+    float speed;  // 플레이어 능력치
+    // float hp;
+    // float vit;
+
+    float hAxis;  // 이동관련 변수
+    float vAxis;  
+    bool wDown;   
     Vector3 moveVec;
 
     Animator anim;
 
+    // ------------------------------ events ---------------------------------
     void Awake() 
     {
         anim = GetComponentInChildren<Animator>();
     }
+
     void Start()
     {
-        
+        speed = 5.0f;
+        // hp = 100.0f;
+        // vit = 0.0f;
     }
 
     void Update()
@@ -36,4 +43,10 @@ public class PlayerController : MonoBehaviour
     
         transform.LookAt(transform.position + moveVec);
     }
+
+    // ------------------------------ stats ---------------------------------
+    void Attak(){}
+    void SetHp(float newHp){}
+    void SetVit(float newVit){}
+    void SetSpeed(float newSpeed){}
 }
