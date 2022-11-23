@@ -36,14 +36,16 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Script\Bullet.cs" />
      <Compile Include="Assets\Script\PlayerController.cs" />
      <Compile Include="Assets\Script\MobGenerator.cs" />
      <Compile Include="Assets\Script\Follow.cs" />
+     <Compile Include="Assets\Script\MobPooling.cs" />
      <Compile Include="Assets\Script\MapGenerator.cs" />
      <Compile Include="Assets\Script\ItemGenerator.cs" />
      <Compile Include="Assets\Assets\QuarterView 3D Action BE5\ReadMe\Scripts\ReadmeBE5.cs" />
      <Compile Include="Assets\Script\Enemy.cs" />
-     <Compile Include="Assets\Script\MobPooling.cs" />
+     <Compile Include="Assets\Script\Weapon.cs" />
     <Reference Include="UnityEngine">
         <HintPath>D:\unity\editor\2021.3.8f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
