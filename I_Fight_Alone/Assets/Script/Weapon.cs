@@ -21,7 +21,7 @@ public class Weapon : MonoBehaviour
             StartCoroutine("Swing");
         }
         else if(type == Type.Range)
-        {
+        {   
             Shot();
         }
     }

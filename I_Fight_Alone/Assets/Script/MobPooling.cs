@@ -26,7 +26,7 @@ public class MobPooling : MonoBehaviour
         mobHolder.transform.parent = transform;
 
         deltaSpawnTime = 0.0f;
-        poolSize = 50;
+        poolSize = maxSpawnCnt;
 
         enemyPool = new GameObject[poolSize];
         for(int i = 0; i<poolSize; i++)

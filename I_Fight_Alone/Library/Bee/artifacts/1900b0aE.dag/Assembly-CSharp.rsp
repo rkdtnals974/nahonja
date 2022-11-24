@@ -361,6 +361,7 @@
 "Assets/Script/Bullet.cs"
 "Assets/Script/Enemy.cs"
 "Assets/Script/Follow.cs"
+"Assets/Script/GameManager.cs"
 "Assets/Script/ItemGenerator.cs"
 "Assets/Script/MapGenerator.cs"
 "Assets/Script/MobGenerator.cs"

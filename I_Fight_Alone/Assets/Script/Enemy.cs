@@ -10,7 +10,7 @@ public class Enemy : MonoBehaviour
 
     // Mob stats
     float hp;
-    float speed;
+    public float speed;
     float power;
 
     // ------------------------------ events ---------------------------------
@@ -22,15 +22,41 @@ public class Enemy : MonoBehaviour
     void Start() 
     {
         this.Target = GameObject.Find("Player");
-
-        // hp = 100.0f;
+        
         // speed = 3.0f;
         // power = 5;
+    }
+
+    void OnEnable()
+    {
+        hp = 100.0f;
     }
 
     void Update()
     {
         nav.SetDestination(Target.transform.position);
+    }
+    
+
+    // ------------------------------ damage ---------------------------------
+
+    void OnTriggerEnter(Collider other)
+    {
+        if(other.tag == "Range")
+        {
+            hp -= GameObject.Find("Weapon HandGun").GetComponent<Weapon>().damage;
+            Destroy(other.gameObject);
+            gameObject.transform.Translate(Vector3.back * 1);
+            Debug.Log(gameObject.name + "Hp: " + hp.ToString());
+        }
+        else if(other.tag == "Melee")
+        {
+            hp -= other.GetComponent<Weapon>().damage;
+            gameObject.transform.Translate(Vector3.back * 1);
+            Debug.Log(gameObject.name + "Hp: " + hp.ToString());
+        }
+
+        if(hp <= 0){gameObject.SetActive(false);}
     }
 
     // ------------------------------ stats ---------------------------------

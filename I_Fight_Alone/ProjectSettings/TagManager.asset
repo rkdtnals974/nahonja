@@ -5,8 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Enemy
-  - Melee
   - Floor
+  - Melee
+  - Range
   layers:
   - Default
   - TransparentFX
